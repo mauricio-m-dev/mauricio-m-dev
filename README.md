@@ -4,7 +4,7 @@
 
 Sou estudante e desenvolvedor apaixonado por tecnologia, com formação técnica em **Informática para Internet** e **Automação Industrial**. Tenho 17 anos e desde cedo estou envolvido em projetos que unem criatividade, lógica e inovação.
 
-Atualmente, me dedico ao desenvolvimento de soluções que vão desde aplicações web até sistemas embarcados voltados para a indústria. <br> Busco aprender continuamente e aplicar esse conhecimento em projetos reais, sempre com foco em eficiência, usabilidade e impacto positivo.
+Atualmente, me dedico ao desenvolvimento de soluções que vão desde aplicações web até sistemas embarcados voltados para a indústria. Busco aprender continuamente e aplicar esse conhecimento em projetos reais, sempre com foco em eficiência, usabilidade e impacto positivo.
 
 Tenho facilidade para trabalhar em equipe, sou organizado, proativo e comprometido com o crescimento pessoal e profissional. <br> Meu objetivo é evoluir constantemente, contribuir com a comunidade e conquistar uma carreira sólida no mundo da tecnologia.
 
