@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou estudante e desenvolvedor apaixonado por tecnologia, com formação técnica em **Informática para Internet** e **Automação Industrial**. Tenho 17 anos e desde cedo estou envolvido em projetos que unem criatividade, lógica e inovação.
+Sou estudante e desenvolvedor apaixonado por tecnologia, com formação técnica em **Informática para Internet** e **Automação Industrial**. Desde cedo estou envolvido em projetos que unem criatividade, lógica e inovação.
 
 Atualmente, me dedico ao desenvolvimento de soluções que vão desde aplicações web até sistemas embarcados voltados para a indústria. Busco aprender continuamente e aplicar esse conhecimento em projetos reais, sempre com foco em eficiência, usabilidade e impacto positivo.
 
