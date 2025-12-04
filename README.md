@@ -1,97 +1,64 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Mauricio+Martins;Desenvolvedor+FullStack;Automação+Industrial+%26+IoT" alt="Typing SVG" />
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Mauricio+Martins;Desenvolvedor+FullStack;Automa%C3%A7%C3%A3o+Industrial;Inova%C3%A7%C3%A3o+%26+Tecnologia" alt="Typing SVG" />
+  <br><br>
+
+  <a href="https://github.com/mauricio-m-dev">
+    <img src="https://img.shields.io/github/followers/mauricio-m-dev?label=Seguidores&style=for-the-badge&color=282a36&labelColor=44475a&logo=github&logoColor=white" />
   </a>
-
-  <br>
-
-  <div style="display: inline-block;">
-    <a href="https://github.com/mauricio-m-dev">
-      <img src="https://img.shields.io/github/followers/mauricio-m-dev?label=GitHub&style=for-the-badge&color=2a2a2a&labelColor=171515&logo=github&logoColor=white" alt="GitHub Followers">
-    </a>
-    <a href="https://www.linkedin.com/in/mauricio-martins-167784295" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-    <a href="mailto:SEU_EMAIL_AQUI@GMAIL.COM">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-    </a>
-  </div>
+  <a href="https://www.linkedin.com/in/mauricio-martins-167784295">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 <br>
 
-## 🧑🏻‍💻 Sobre Mim
+## ⚡ Sobre Mim
 
-Sou um desenvolvedor apaixonado pela interseção entre **Web** e **Automação Industrial**. Com formação técnica sólida, busco criar soluções que não apenas funcionem, mas que gerem impacto real e eficiência.
+<p align="left">
+Sou um desenvolvedor focado na convergência entre <b>Web e Indústria</b>. Meu foco é criar aplicações robustas, escaláveis e que resolvam problemas reais.
 
-- 🎓 **Formação:** Técnico em Informática para Internet & Automação Industrial.
-- 🚀 **Foco Atual:** Desenvolvimento de soluções Web e Sistemas Embarcados.
-- 💡 **Objetivo:** Evoluir tecnicamente e contribuir com projetos inovadores.
-- 🧠 **Soft Skills:** Trabalho em equipe, Proatividade, Organização e Lógica afiada.
-
----
-
-## 🚀 Arsenal Tecnológico
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-        <br>HTML5
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-        <br>CSS3
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-        <br>Bootstrap
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-        <br>PHP
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-        <br>C++
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-        <br>Git
-      </td>
-    </tr>
-  </table>
-</div>
+- 🔭 Atualmente trabalhando com **Desenvolvimento Web & Sistemas Embarcados**
+- 🌱 Estudando **Arquitetura de Software e Cloud Computing**
+- ⚙️ Formação técnica em **Informática** e **Automação Industrial**
+- 💬 Pergunte-me sobre **Fullstack, IoT e Lógica de Programação**
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://github.com/mauricio-m-dev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mauricio-m-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-m-dev&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauricio-m-dev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
 ---
 
+## 📈 GitHub Stats
+
 <div align="center">
-  <i>"A tecnologia move o mundo, e o código é o combustível."</i>
-  <br><br>
-  <a href="https://github.com/mauricio-m-dev?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver%20meus%20Projetos-3366CC?style=for-the-badge&logo=github&logoColor=white" alt="Projetos">
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauricio-m-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-m-dev&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauricio-m-dev&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
